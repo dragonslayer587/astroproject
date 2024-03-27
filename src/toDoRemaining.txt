@@ -1,0 +1,3 @@
+use REST nomenclature
+create an api to hit with our form
+use components in frontEnd to separate code
